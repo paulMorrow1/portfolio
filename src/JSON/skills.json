@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "JavaScript",
+        "img": "images/javascript.png",
+        "text": "Build JS"
+    },
+    {
+        "id": 2,
+        "name": "HTML",
+        "img": "images/html5.png",
+        "text": "Build HTML"
+    },
+    {
+        "id": 3,
+        "name": "CSS/Flexbox",
+        "img": "images/css.png",
+        "text": "Implement CSS/Flexbox"
+    },
+    {
+        "id": 4,
+        "name": "React",
+        "img": "images/react.png",
+        "text": "Build using React"
+    },
+    {
+        "id": 5,
+        "name": "Redux",
+        "img": "",
+        "text": "Build using Redux"
+    },
+    {
+        "id": 6,
+        "name": "TailwindCSS",
+        "img": "",
+        "text": "Build using TailwindCSS"
+    }
+]
