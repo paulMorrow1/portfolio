@@ -1,13 +1,21 @@
-import React from 'react'
-import Header from './Header'
-import Skills from './Skills'
+import React from 'react';
+import AboutMe from './AboutMe';
+import Footer from './Footer';
+import Header from './Header';
+import Projects from './Projects';
+import Skills from './Skills';
 
 const Home = () => {
   return (
-    <div>
+    <div className=''>
         <Header />
+        <AboutMe />
         <Skills />
+        <Projects />
+        <Footer />
+
     </div>
+    
   )
 }
 

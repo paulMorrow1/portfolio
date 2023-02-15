@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "name": "CSS/Flexbox",
+        "name": "CSS",
         "img": "images/css.png",
         "text": "Implement CSS/Flexbox"
     },
@@ -25,14 +25,8 @@
     },
     {
         "id": 5,
-        "name": "Redux",
-        "img": "",
-        "text": "Build using Redux"
-    },
-    {
-        "id": 6,
-        "name": "TailwindCSS",
-        "img": "",
-        "text": "Build using TailwindCSS"
+        "name": "Node",
+        "img": "images/node.png",
+        "text": "Build Backend using Node.js"
     }
 ]
