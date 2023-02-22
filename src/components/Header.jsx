@@ -1,10 +1,6 @@
 import React from 'react';
 import background from '../images/background.jpg';
 
-// I WANT THE WOODEN BACKGROUND PIC AS THE BACKGROUND EVEN WHEN I AM SCROLLING
-// I WANT TO BE ABLE TO SEE IT IN BETWEEN EACH SECTION
-// I.E. BETWEEN THE ABOUT ME SECTION AND THE SKILLS SECTION ETC
-
 
 const Header = () => {
   return (

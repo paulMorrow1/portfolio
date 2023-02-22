@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div className='bg-teal-700/70 h-full w-full'>
+    <div className='bg-teal-700/80 h-full w-full'>
         <h2 className='text-4xl text-white flex justify-center pt-8 pb-3 '>
             Want to reach out?
             <span className='animate-bounce pl-3'>

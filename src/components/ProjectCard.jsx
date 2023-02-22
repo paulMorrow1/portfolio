@@ -1,9 +1,12 @@
 import React from 'react';
 
+// I want these to be individual project cards that have links to the specific project
+// Not sure if that is neccessary, but I feel like it's a good thought
+
 const ProjectCard = () => {
-  const [card, setCard] = {};
+
   return (
-    <div className='border-solid border-4 border-cyan-900'>Project</div>
+    <div className='h-[full] w-[full]'>Project 1</div>
   )
 }
 
