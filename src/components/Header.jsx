@@ -1,6 +1,6 @@
 import React from 'react';
+import { FaGithub, FaLinkedin } from 'react-icons/fa'; //need to add FaFileAlt to the imports for Resume icon
 import background from '../images/background.jpg';
-
 
 const Header = () => {
   return (
@@ -13,6 +13,17 @@ const Header = () => {
           <p class='text-center text-2xl mt-5'>Paul Morrow
             <p>Software Developer</p>
           </p>
+        </div>
+        <div className='flex justify-center pt-6'>
+          <div className='align-middle'>
+            <a href='https://github.com/paulMorrow1'><FaGithub className='h-[40px] w-[40px] ml-3'/></a>
+            <div className='p-2'>Github</div>
+          </div>
+          <div className='ml-5'>
+            <a href='https://www.linkedin.com/in/paul-morrow-swd/'><FaLinkedin className='h-[40px] w-[40px] ml-4'/></a>
+            <div className='p-2'>LinkedIn</div>
+          </div>
+          {/* <a href=''>{FaRegFileAlt}Resume</a> */}
         </div>
       </div>
     </div>
