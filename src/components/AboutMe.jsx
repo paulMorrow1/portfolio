@@ -2,7 +2,7 @@ import profilepic from '../images/profilepic.jpg';
 
 const AboutMe = () => { 
     return (
-        <div className='flex-col justify-evenly text-center bg-gradient-to-r from-blue-400 to-transparent'>
+        <div className='flex justify-evenly text-center bg-gradient-to-r from-blue-400 to-transparent'>
             <div className='flex'>
             <img className="w-[500px] h-75% m-5 border-4 border-solid border-cyan-800"src={profilepic} alt='profile'/>
             <div>
