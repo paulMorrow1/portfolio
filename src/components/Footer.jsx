@@ -4,7 +4,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div className='bg-slate-600/80 h-full w-full'>
+    <div className='bg-gradient-to-r from-gray-700 to-gray-500 h-full w-full'>
         <h2 className='text-4xl text-white flex justify-center pt-8 pb-3 '>
             Want to reach out?
             <span className='animate-bounce pl-3'>
