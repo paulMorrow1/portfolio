@@ -1,0 +1,37 @@
+.header-info {
+  color: rgba(0, 0, 0, 0.738);
+  background-color: white;
+  font-family: cursive;
+  padding: 2rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid black 2px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+.author {
+  font-size: 2rem;
+}
+
+.socialmedia-logos {
+  display: flex;
+  align-items: center;
+}
+
+.github {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0rem 1rem;
+}
+
+.linkedin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0rem 1rem;
+}

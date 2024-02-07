@@ -1,35 +1,35 @@
 [
-    {
-        "name": "",
-        "id": 0,
-        "url": "",
-        "description": ""  
-    },
+  {
+    "name": "Movie Catalog",
+    "id": 0,
+    "url": "",
+    "description": "This is a basic Netflix clone that is more of a movie catalog....."
+  },
 
-    {
-        "name": "",
-        "id": 1,
-        "url": "",
-        "description": ""  
-    },
+  {
+    "name": "Star Wars",
+    "id": 1,
+    "url": "",
+    "description": "This project is a Star Wars based database where the user can search for information about the Star Wars universe"
+  },
 
-    {
-        "name": "",
-        "id": 2,
-        "url": "",
-        "description": ""  
-    },
+  {
+    "name": "ToDo List Compilation",
+    "id": 2,
+    "url": "",
+    "description": ""
+  },
 
-    {
-        "name": "",
-        "id": 3,
-        "url": "",
-        "description": ""  
-    },
-    {
-        "name": "",
-        "id": 4,
-        "url": "",
-        "description": ""  
-    }
+  {
+    "name": "Calculator",
+    "id": 3,
+    "url": "",
+    "description": "A functional calculator with the fundamental mathematical operations"
+  },
+  {
+    "name": "Rock, Paper, Scissors!",
+    "id": 4,
+    "url": "",
+    "description": "The classic game right at your fingertips. Play against the computer, or challenge a friend to a local match."
+  }
 ]

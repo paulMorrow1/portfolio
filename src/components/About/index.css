@@ -1,0 +1,15 @@
+.about-info {
+  display: flex;
+  flex-direction: column;
+  margin: 5rem 0rem;
+}
+
+.about-header {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.about-details {
+  margin-left: 2.5rem;
+  margin-right: 5rem;
+}

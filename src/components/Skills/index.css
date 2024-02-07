@@ -1,0 +1,22 @@
+.skills-section {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.skills-header {
+  margin: 2rem 0rem;
+  font-size: 2rem;
+}
+
+.skills {
+  display: flex;
+}
+
+.skill-name {
+  font-size: 1rem;
+  text-decoration: underline;
+}
+
+.skill-logo {
+  border: solid black 1.5px;
+}

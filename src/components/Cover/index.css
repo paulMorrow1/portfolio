@@ -1,0 +1,19 @@
+.cover {
+  display: flex;
+  margin: 5rem 0rem;
+  justify-content: space-evenly;
+}
+
+.profile-pic {
+  width: 300px;
+  margin-right: 2.5rem;
+  margin-left: 5rem;
+  border: solid black 5px;
+  border-radius: 25px;
+}
+
+.greeting {
+  font-size: 3rem;
+  font-family: cursive;
+  text-align: center;
+}
