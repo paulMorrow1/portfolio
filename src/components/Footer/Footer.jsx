@@ -1,13 +1,14 @@
 import React from "react";
+import "./index.css";
 
 const Footer = () => {
   return (
-    <div>
-      <h2>
+    <div className="footer">
+      <h2 className="footer-message">
         Want to reach out?
-        <span> Contact me here!</span>
+        <span className="footer-message-span"> Contact me here!</span>
       </h2>
-      <div>
+      <div className="contact-info">
         <p>email: pmorow93@gmail.com</p>
         <p>Mobile: (402)657-7972</p>
       </div>

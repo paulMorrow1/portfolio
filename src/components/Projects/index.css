@@ -12,3 +12,31 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.iframes {
+  /* background-color: rgba(26, 133, 214, 0.673); */
+  display: flex;
+  flex-direction: column;
+  border: 5px solid black;
+  margin-top: 5rem;
+}
+
+.iframe-calculator {
+  border: 5px solid black;
+}
+
+.iframe-rock-paper-scissors {
+  border: 5px solid black;
+}
+
+.iframe-quiz {
+  border: 5px solid black;
+}
+
+.iframe-movie-catalog {
+  border: 5px solid black;
+}
+
+.iframe-star-wars {
+  border: 5px solid black;
+}
