@@ -27,7 +27,6 @@ const Projects = () => {
           height={660}
           className="iframe-calculator"
         />
-
         <iframe
           title="rock paper scissors"
           src="projects/rock_paper_scissors/index.html"
@@ -35,7 +34,6 @@ const Projects = () => {
           height={700}
           className="iframe-rock-paper-scissors"
         />
-
         <iframe
           title="Quiz"
           src="projects/quiz/index.html"
@@ -43,17 +41,16 @@ const Projects = () => {
           height={700}
           className="iframe-quiz"
         />
-
         <iframe
           title="movie catalog"
-          src="projects/movie_catalog/index.html"
+          src="https://movie-catalog-eight-tau.vercel.app/"
           width={700}
           height={700}
           className="iframe-movie-catalog"
         />
         <iframe
           title="Star Wars"
-          src="projects/star_wars/index.html"
+          src="https://star-wars-three-alpha.vercel.app/"
           width={700}
           height={700}
           className="iframe-star-wars"
