@@ -11,6 +11,7 @@ const Cover = () => {
       <div className="greeting">
         <p>Hello there!</p>
         <p>Welcome to my Portfolio</p>
+        <p className="disclaimer">(still under construction 🔨😎)</p>
       </div>
     </div>
   );
