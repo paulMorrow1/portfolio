@@ -23,18 +23,22 @@
 
 .iframe-calculator {
   border: 5px solid black;
+  margin-bottom: 2rem;
 }
 
 .iframe-rock-paper-scissors {
   border: 5px solid black;
+  margin-bottom: 2rem;
 }
 
 .iframe-quiz {
   border: 5px solid black;
+  margin-bottom: 2rem;
 }
 
 .iframe-movie-catalog {
   border: 5px solid black;
+  margin-bottom: 2rem;
 }
 
 .iframe-star-wars {
