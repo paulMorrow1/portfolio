@@ -1,5 +1,5 @@
 .projects-section {
-  margin-bottom: 5rem;
+  /* margin-bottom: 5rem; */
 }
 
 .projects-header {
@@ -17,26 +17,56 @@
   /* background-color: rgba(26, 133, 214, 0.673); */
   display: flex;
   flex-direction: column;
-  border: 5px solid black;
   margin-top: 5rem;
 }
 
-.iframe-calculator {
-  border: 5px solid black;
+.calculator-container {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
 }
 
-.iframe-rock-paper-scissors {
-  border: 5px solid black;
+.calculator-description {
+  width: 50%;
+  padding: 20px 20px 0px 0px;
 }
 
-.iframe-quiz {
-  border: 5px solid black;
+.rock-paper-scissors-container {
+  display: flex;
+  border: 2px solid black;
 }
 
-.iframe-movie-catalog {
-  border: 5px solid black;
+.rock-paper-scissors-description {
+  width: 50%;
+  padding: 20px 20px 0px 0px;
 }
 
-.iframe-star-wars {
-  border: 5px solid black;
+.quiz-container {
+  display: flex;
+  border: 2px solid black;
+}
+
+.quiz-description {
+  width: 50%;
+  padding: 20px 20px 0px 0px;
+}
+
+.movie-catalog-container {
+  display: flex;
+  border: 2px solid black;
+}
+
+.movie-catalog-description {
+  width: 50%;
+  padding: 20px;
+}
+
+.star-wars-container {
+  display: flex;
+  border: 2px solid black;
+}
+
+.star-wars-description {
+  width: 50%;
+  padding: 20px;
 }
