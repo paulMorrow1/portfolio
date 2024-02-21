@@ -6,6 +6,7 @@
 .skills-header {
   margin: 2rem 0rem;
   font-size: 2rem;
+  text-decoration: underline;
 }
 
 .skills {
@@ -18,5 +19,4 @@
 }
 
 .skill-logo {
-  border: solid black 1.5px;
 }

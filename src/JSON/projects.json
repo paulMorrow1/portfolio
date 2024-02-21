@@ -24,7 +24,7 @@
     "name": "Movie Catalog",
     "id": 3,
     "url": "",
-    "description": "With this Movie catalog app, the User can keep track of what movies they have watched. It does not have video capabilities. Users can mark movies as watched or as a favorite, which will add them to the respective catagories. Lists of these movies are accessible in the hamburger dropdown menu by clicking on the specific catergory title, along with a running count of how many movies are currently included in each list. The User can also filter movies based on genre, release year, and cast, search movies directly in the search bar, and increase or decrease the amount of movies shown on each page. Clicking on a movie card will take the User to a details page where it displays information about the movie such as a synopsis of the film, year of release, cast members, and rating."
+    "description": "With this Movie catalog app, the User can keep track of what movies they have watched. It does not have video capabilities. Users can mark movies as watched or as a favorite, which will add them to the respective catagories. Lists of these movies are accessible in the hamburger dropdown menu by clicking on the specific catergory title, along with a running count of how many movies are currently included in each list. The User can also filter movies based on genre, release year, and cast, search movies directly in the search bar, and increase or decrease the amount of movies shown on each page. Clicking on a movie card will take the User to a details page where it displays information about the movie such as a synopsis of the film, year of release, cast members, and genre."
   },
 
   {

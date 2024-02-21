@@ -33,7 +33,9 @@
 
 .rock-paper-scissors-container {
   display: flex;
-  border: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .rock-paper-scissors-description {
@@ -43,7 +45,9 @@
 
 .quiz-container {
   display: flex;
-  border: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .quiz-description {
@@ -53,7 +57,9 @@
 
 .movie-catalog-container {
   display: flex;
-  border: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .movie-catalog-description {
@@ -63,7 +69,9 @@
 
 .star-wars-container {
   display: flex;
-  border: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .star-wars-description {
