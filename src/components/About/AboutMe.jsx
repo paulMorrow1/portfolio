@@ -1,35 +1,68 @@
+import profilepic from "../../images/profilepic.jpg";
 import "./index.css";
 
 const AboutMe = () => {
   return (
     <div className="about-section">
-      <div className="about-info">
-        <h2 className="about-header">About Me</h2>
+      <div className="about-container">
+        <img src={profilepic} alt="profile" className="profile-img" />
         <div className="about-details">
-          <p>
-            I am a Software Developer from Omaha, Nebraska. My Web Development
-            journey began in 2021! I was brand new to the Tech Industry, with
-            the only knowledge about programming being from a few free online
-            classes my cousin had sent me. After getting through some
-            excersises, I decided to enroll in a six month Coding Bootcamp
-            through Bloomtech Academy. The course was tough with so much new
-            information coming in, but I was able to form a solid workgroup with
-            a few of my classmates and pushed through! I learned a ton from the
-            course! Not only did I learn how to build websites, but I also
-            learned valuable skills such as how to use the web as a resource to
-            find answers to any blockers, and how to get comfortable with
-            reaching out for help if there was ever any trouble finding an
-            answer on my own.
-          </p>
-          <p>
-            Outside of programming, I have a 6 year old daughter in her first
-            year of Elementary school! I love staying active, with Golf being my
-            main hobby. I am a HUGE boardgame fan! My favorite boardgame at the
-            moment is Settlers of Catan. I also enjoy playing story mode video
-            games, as well as watching movies in my down time; my favorites
-            being anything Star Wars related, The Lord of the Rings, and Harry
-            Potter!
-          </p>
+          <h2 className="about-header">About Me</h2>
+          <div className="info-container">
+            <p>Professional Info</p>
+            <div>
+              <ul>
+                <li className="list-item">
+                  Have worked in the Restaurant industry for the majority of my
+                  career
+                </li>
+                <li className="list-item">
+                  Began Software Engineering journey in fall of 2021
+                  <ul>
+                    <li className="nested-list-item">
+                      Enrolled in Bootcamp in beginning of 2022
+                    </li>
+                    <li className="nested-list-item">
+                      Graduated from Bootcamp in the beginning of 2023
+                    </li>
+                  </ul>
+                </li>
+                <li className="list-item">
+                  Core stack consists of JavaScript/React, CSS, and HTML
+                </li>
+                <li className="list-item">
+                  Some valuable skills I have learned are:
+                  <ul>
+                    <li className="nested-list-item">
+                      How to read Documentation
+                    </li>
+                    <li className="nested-list-item">
+                      How to ask questions until I understand the material
+                    </li>
+                    <li className="nested-list-item">
+                      How to be comfortable with being outside my knowledge
+                      'comfort zone'
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div className="info-container">
+            <p>Personal Info</p>
+            <ul>
+              <li className="list-item">Father to a 6 year old daughter</li>
+              <li className="list-item">
+                Hobbies include Golf, being active, traveling, and watching
+                movies/shows
+              </li>
+              <li className="list-item">
+                Goals include getting into my first role as an Engineer,
+                strengthening financial stability, and continuing to learn and
+                grow as a person/parent/engineeer
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>

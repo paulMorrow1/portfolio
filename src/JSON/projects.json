@@ -1,36 +1,42 @@
 [
   {
     "name": "Calculator",
+    "images": "",
     "id": 0,
-    "url": "",
     "description": "A functional calculator with the fundamental mathematical operations. The User can chain operations and the calculator will evaluate each expression, show the User's new input, and perform the new evaluation."
   },
 
   {
     "name": "Rock, Paper, Scissors!",
+    "images": "",
     "id": 1,
-    "url": "",
     "description": "The classic game right at your fingertips! Play against the computer in a 1 Player game, or challenge a friend to a local match in a 2 Player game. Just make your selection, submit your choice, and see who the winner is!"
   },
 
   {
     "name": "Math Quiz",
+    "images": "",
     "id": 2,
-    "url": "",
-    "description": "Test your Math skills in this custom length quiz. Choose your amount of questions and get started. Questions include the 4 fundamental math operators and vary in difficulty. Enter your answer in the input field and on submission recieve your total correct over the total amout of questions. Shoot for 100% without using the extremely convenient calculator above (😅), but if you get stuck please feel free to use it!"
+    "description": "Test your Math skills in this custom length quiz. Choose your amount of questions and get started. Questions include the 4 fundamental math operators and vary in difficulty. Enter your answer in the input field and on submission recieve your total correct over the total amout of questions. Shoot for 100%!"
   },
 
   {
     "name": "Movie Catalog",
+    "images": "",
     "id": 3,
-    "url": "",
-    "description": "With this Movie catalog app, the User can keep track of what movies they have watched. It does not have video capabilities. Users can mark movies as watched or as a favorite, which will add them to the respective catagories. Lists of these movies are accessible in the hamburger dropdown menu by clicking on the specific catergory title, along with a running count of how many movies are currently included in each list. The User can also filter movies based on genre, release year, and cast, search movies directly in the search bar, and increase or decrease the amount of movies shown on each page. Clicking on a movie card will take the User to a details page where it displays information about the movie such as a synopsis of the film, year of release, cast members, and genre."
+    "description": "With this Movie catalog app, the User can keep track of what movies they have watched. It does not have video capabilities. Users can mark movies as watched or as a favorited, which will add them to the respective catagories. Lists of these movies, along with a running count of how many movies are currently included in each list, are accessible in the hamburger dropdown menu. The User can also filter movies based on genre, release year, and cast, search movies directly in the search bar, and increase or decrease the amount of movies shown on each page. Clicking on a movie card will take the User to a details page where it displays information about the movie such as a synopsis of the film, year of release, cast members, and genre."
   },
 
   {
-    "name": "Star Wars Auto-complete",
+    "name": "Star Wars Character Search",
+    "images": "",
     "id": 4,
-    "url": "",
-    "description": "I love Star Wars, so I felt like I had to do a little Star Wars related project. This one here is simply a Character Information search center. Start entering the name of a character and the auto complete functionality will search the Star Wars database for characters who's name includes those letters. Find the character you want the information on and by clicking their name, the app will make a mockAPI call and render a JSON data object displaying various information about the selected character. Anything from age, hair color, and height, to homeworld and how many films the character appeared in. By clicking on the Statistics option you will come to a page where character information is displayed in a table, and the User has checkboxes they can select or deselect to include or remove the category from the table."
+    "description": "I love Star Wars, so I felt like I had to do a little Star Wars related project. This one here is simply a Character Information search center. Start entering the name of a character and the auto complete functionality will search the Star Wars database for characters who's name includes those letters. Find the character you want the information on and by clicking their name, the app will make a mockAPI call and render a JSON data object displaying information about the selected character such as age, hair color, and height, what films the character appeared in and more. Clicking on the Statistics link will take you to a page where character information is displayed in a table, and the User can select or deselect checkboxes to include or remove the category from the table."
+  },
+  {
+    "name": "Golf Scorecard",
+    "images": "",
+    "id": 5,
+    "description": "Keep track of your round with this basic scorecard. Choose between 9 or 18 holes and fill in the stats accordingly. After finishing your last hole, complete your round to see an overview of your totals for each stat category."
   }
 ]

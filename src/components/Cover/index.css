@@ -1,23 +1,73 @@
-.cover {
+/* .cover {
   display: flex;
-  margin: 5rem 0rem;
-  justify-content: space-evenly;
+  margin: 2rem 0rem;
+  justify-content: space-between;
+  flex-wrap: wrap;
+} */
+.cover {
+  background-image: url("../../images/portfolio-bkg2.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 566px;
+  width: 1040px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  font-weight: 900;
+  position: relative;
 }
 
-.profile-pic {
+.background-img {
+  width: 100%;
+  padding: 0 4rem;
+  margin-top: 4rem;
+}
+
+.cover-title {
+  text-align: center;
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.sub-title {
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  font-size: 35px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* .profile-pic {
   width: 300px;
-  margin-right: 2.5rem;
-  margin-left: 5rem;
   border: solid black 5px;
   border-radius: 25px;
-}
+  margin: 0 auto;
+} */
 
-.greeting {
-  font-size: 3rem;
+/* .greeting {
+  font-size: 1.5rem;
   font-family: cursive;
   text-align: center;
+  margin: 6px auto 0;
+} */
+
+/* .disclaimer {
+  font-size: 1rem;
+} */
+
+/* tablet */
+/* @media screen and (min-width: 746px) {
+  .cover {
+    margin: 5rem 0rem;
+  }
+  .greeting {
+    font-size: 3rem;
+  }
 }
 
-.disclaimer {
-  font-size: 1rem;
-}
+/* desktop */
+/* @media screen and (min-width: 1024px) {
+} */

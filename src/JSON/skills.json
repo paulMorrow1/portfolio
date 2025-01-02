@@ -1,32 +1,32 @@
 [
-    {
-        "id": 1,
-        "name": "JavaScript",
-        "img": "images/javascript.png",
-        "text": "Build JS"
-    },
-    {
-        "id": 2,
-        "name": "HTML",
-        "img": "images/html5.png",
-        "text": "Build HTML"
-    },
-    {
-        "id": 3,
-        "name": "CSS",
-        "img": "images/css.png",
-        "text": "Implement CSS/Flexbox"
-    },
-    {
-        "id": 4,
-        "name": "React",
-        "img": "images/react.png",
-        "text": "Build using React"
-    },
-    {
-        "id": 5,
-        "name": "Node",
-        "img": "images/node.png",
-        "text": "Build Backend using Node.js"
-    }
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "img": "images/javascript.png",
+    "text": "Apply functionality with JS"
+  },
+  {
+    "id": 2,
+    "name": "HTML",
+    "img": "images/html5.png",
+    "text": "Structure app/web layouts with HTML"
+  },
+  {
+    "id": 3,
+    "name": "CSS",
+    "img": "images/css.png",
+    "text": "Style and design with CSS/Flexbox"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "img": "images/react.png",
+    "text": "Build using React"
+  },
+  {
+    "id": 5,
+    "name": "Typescript",
+    "img": "images/typescript.png",
+    "text": "Used to specifically define types of data"
+  }
 ]

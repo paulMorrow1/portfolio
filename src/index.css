@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 body {
-  background-image: url(./images/portfolio-bkg1.jpeg);
+  /* background-image: url(./images/portfolio-bkg2.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: cover; */
 }

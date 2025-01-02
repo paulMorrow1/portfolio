@@ -1,80 +1,98 @@
 .projects-section {
-  /* margin-bottom: 5rem; */
+  background-color: rgb(2, 2, 53);
+  padding: 3rem 0;
 }
 
-.projects-header {
-  text-align: center;
-  font-size: 2rem;
-  text-decoration: underline;
-}
-
-.projects {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.iframes {
-  /* background-color: rgba(26, 133, 214, 0.673); */
+/* .projects {
+  font-size: 1.5rem;
+  margin-top: 1rem;
   display: flex;
   flex-direction: column;
-  margin-top: 5rem;
+  align-items: center;
+  justify-content: space-evenly;
+} */
+
+.title {
+  font-size: 2rem;
+  width: 100%;
+  font-weight: bold;
+  padding: 10px 0px;
 }
 
-.calculator-container {
+.project-container {
   display: flex;
-  justify-content: space-between;
   border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(244, 241, 241);
+  height: max-content;
+  padding: 1rem 1rem;
+  margin: 3rem 2rem 0;
 }
 
-.calculator-description {
+.project-name.images {
   width: 50%;
-  padding: 20px 20px 0px 0px;
+  padding: 0 2rem;
+  text-align: center;
 }
 
-.rock-paper-scissors-container {
-  display: flex;
-  border-left: 2px solid black;
-  border-right: 2px solid black;
-  border-bottom: 2px solid black;
-}
-
-.rock-paper-scissors-description {
+.project-description {
+  text-align: left;
+  margin: auto;
   width: 50%;
-  padding: 20px 20px 0px 0px;
+  padding: 2rem 2rem;
 }
 
-.quiz-container {
-  display: flex;
-  border-left: 2px solid black;
-  border-right: 2px solid black;
-  border-bottom: 2px solid black;
+.project-link {
+  color: blue;
+  font-weight: bold;
 }
 
-.quiz-description {
-  width: 50%;
-  padding: 20px 20px 0px 0px;
+.rpsimage {
+  height: 130px;
+  width: 190px;
+  object-fit: contain;
+  background-color: white;
+  margin: 5px 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.2);
+  border: 2px solid rgb(111, 108, 108);
 }
 
-.movie-catalog-container {
-  display: flex;
-  border-left: 2px solid black;
-  border-right: 2px solid black;
-  border-bottom: 2px solid black;
+.quizimage {
+  height: 130px;
+  width: 190px;
+  background-color: white;
+  object-fit: contain;
+  margin: 5px 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.2);
+  border: 2px solid rgb(111, 108, 108);
 }
 
-.movie-catalog-description {
-  width: 50%;
-  padding: 20px;
+.netflixcloneimage {
+  height: 130px;
+  width: 190px;
+  background-color: white;
+  object-fit: contain;
+  margin: 5px 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.2);
+  border: 2px solid rgb(111, 108, 108);
 }
 
-.star-wars-container {
-  display: flex;
-  border-left: 2px solid black;
-  border-right: 2px solid black;
-  border-bottom: 2px solid black;
+.golfappimage {
+  height: 130px;
+  width: 190px;
+  background-color: white;
+  object-fit: contain;
+  margin: 5px 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.2);
+  border: 2px solid rgb(111, 108, 108);
 }
 
-.star-wars-description {
-  width: 50%;
-  padding: 20px;
+.starwars-image {
+  height: 130px;
+  width: 190px;
+  background-color: white;
+  object-fit: contain;
+  margin: 5px 5px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.2);
+  border: 2px solid rgb(111, 108, 108);
 }

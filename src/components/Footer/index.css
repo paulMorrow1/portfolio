@@ -1,45 +1,9 @@
-.footer {
-  background-color: #00557d;
-  color: #ffffff;
+.footer-contact-info {
   padding: 30px;
   display: flex;
-  flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
   font-family: Georgia, "Times New Roman", Times, serif;
-  border-bottom: 2px solid black;
-  border-right: 2px solid black;
-  border-left: 2px solid black;
-}
-
-.footer-message {
-  display: flex;
-  padding-bottom: 15px;
-  font-size: 2rem;
-}
-
-.footer-message-bounce {
-  margin-left: 15px;
-  animation: bounce 1.5s ease infinite;
-}
-
-@keyframes bounce {
-  0% {
-    transform: scale(1, 1) translateY(0);
-  }
-  10% {
-    transform: scale(1.1, 0.9) translateY(0);
-  }
-  30% {
-    transform: scale(0.9, 1.1) translateY(-20px);
-  }
-  50% {
-    transform: scale(1, 1) translateY(0);
-  }
-  100% {
-    transform: scale(1, 1) translateY(0);
-  }
-}
-
-.contact-info {
-  font-size: 1.5rem;
+  border-top: 2px solid black;
+  text-align: center;
 }
